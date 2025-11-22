@@ -6,7 +6,7 @@ A streamlined AI tool designed to evaluate student self-introduction transcripts
 ---
 
 **Live Demo:** https://nirmaan-coach.streamlit.app
----
+
 
 ##  Screenshot
 
@@ -136,9 +136,5 @@ nirmaan-coach/
 └── venv/                 # Virtual environment (not included in repo)
 ```
 
----
 
 
-
-If you want a downloadable `README.md` file, just tell me.
-```
