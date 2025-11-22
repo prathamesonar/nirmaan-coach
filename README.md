@@ -1,5 +1,4 @@
 
-````markdown
 # AI Communication Evaluator - Intern Case Study
 
 This application is a streamlined tool designed to evaluate student self-introduction transcripts. It combines rule-based logic, statistical analysis, and NLP (Semantic Similarity) to generate a score based on the provided rubric.
@@ -91,5 +90,5 @@ Percentage of “um”, “uh”, “like”, etc. vs total words.
 
 ---
 
-```
+
 
